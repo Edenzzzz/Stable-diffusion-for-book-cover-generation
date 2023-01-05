@@ -21,5 +21,12 @@
 ![image](https://user-images.githubusercontent.com/87317405/209904954-a726502c-6f1a-46d3-8c25-1cdb7c0ebc67.png)
 
 **5.Train text encoder, 2 epochs, 6000 images**
-![image](https://user-images.githubusercontent.com/87317405/209907410-0fff405c-2628-4f35-8711-5dfa06c3cfd2.png)
+![image](https://user-images..com/87317405/209907410-0fff405c-2628-4f35-8711-5dfa06c3cfd2.png)
+
+##TODO
+```
+Fix distributed training
+Test different lr (5e-6 or 5e-5); train Unet and text encoder together
+```
+
 
